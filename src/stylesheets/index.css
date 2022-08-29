@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background: linear-gradient(rgb( 0, 87, 184),rgb(255, 216, 0)) no-repeat;
+    height: 1230px;
+}
+
+.mr-7 {
+    margin-right: 2.5rem;
+}
+
+.resetButton {
+    margin-left: 1.5rem;
+}
